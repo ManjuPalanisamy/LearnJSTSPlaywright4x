@@ -3,4 +3,3 @@ For more details, please refer to the following documents:
 1. [Setup](Guidelines_Docs_ReadMe_Files/01_Setup.md)
 2. [Create and Run the First Program](Guidelines_Docs_ReadMe_Files/02_CreateAndRunTheFirstProgram.md)
 3. [Commit Code into GitHub](Guidelines_Docs_ReadMe_Files/03_CommitCodeIntoGitHub.md)
-4. [Create and Run the First Test](Guidelines_Docs_ReadMe_Files/04_CreateAndRunTheFirstTest.md)

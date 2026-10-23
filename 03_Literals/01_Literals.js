@@ -2,7 +2,7 @@
 let name = "Manju"; // String literal.
 let age = 55;
 
-let isStudent = true;
+//let 2ndattempt = true;
 // This is a boolean literal assigned to the variable 'isStudent'.
 
 let pi = 3.14;
