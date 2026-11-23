@@ -1,0 +1,21 @@
+/* Synchronous program starts here */
+
+let testResults = ["Pass","Fail","Pass","Skip"];
+
+testResults.forEach(function(result,index){
+        console.log("Test", index, result);
+});
+
+// "All done" prints LAST because forEach is synchronous — it finishes all 4 iterations one by one, then moves on.
+/* Synchronous program Ends here */
+
+
+/* ASynchronous program starts here - All at a time execution */
+console.log("Test 1 : Started!");
+
+setTimeout(function(){
+    console.log("Test 2 : Started!");
+}, 5000);
+
+console.log("Test 3 : Started!");
+/* ASynchronous program Ends here */
